@@ -32,5 +32,6 @@ Analyser les ventes selon différentes dimensions (temps, produits, moments de l
 Vous pouvez me contacter pour toute question ou pour accéder à des versions plus avancées de ce projet :
 
 - **Email** : naisiaamvoula@gmail.com  
-- **LinkedIn** :AMVOULA Naïsia
+- **LinkedIn** :www.linkedin.com/in/naisia-florida-ndjaepimbi-amvoula-2b8130295
+- AMVOULA Naïsia
 
