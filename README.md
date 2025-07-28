@@ -29,9 +29,21 @@ Analyser les ventes selon différentes dimensions (temps, produits, moments de l
 
 ## 📩 Me contacter
 
-Vous pouvez me contacter pour toute question ou pour accéder à des versions plus avancées de ce projet :
+** Amvoula Naïsia**
+Besoin d’un accompagnement personnalisé ?
+Vous êtes une TPE, PME ou une organisation en croissance sans solution RH automatisée ?
+Vous souhaitez créer un tableau de bord adapté à vos besoins, même sans base de données initiale ?
 
-- **Email** : naisiaamvoula@gmail.com  
-- **LinkedIn** :www.linkedin.com/in/naisia-florida-ndjaepimbi-amvoula-2b8130295
-- AMVOULA Naïsia
+👉 Je vous accompagne de A à Z pour :
+
+Structurer vos données 
+
+Créer une base propre, exploitable dans Power BI
+
+Concevoir des tableaux de bord visuels et dynamiques
+
+Former vos équipes à l’analyse et à l’automatisation
+💼 Data & Business Intelligence  
+📧 naisiaamvoula@gmail.com
+Linkdin:www.linkedin.com/in/naisia-florida-ndjaepimbi-amvoula-2b8130295
 
